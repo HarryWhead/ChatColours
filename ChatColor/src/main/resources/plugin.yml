@@ -1,0 +1,11 @@
+name: ChatColor
+version: '${project.version}'
+main: chatcolor.chatcolor.ChatColor
+api-version: 1.19
+authors: [ BarryYanno ]
+description: Change player name and chat color
+commands:
+  ChatColor:
+    usage: /ChatColor
+  ChatName:
+    usage: /ChatName

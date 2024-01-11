@@ -1,0 +1,110 @@
+
+color-unavailable:
+  material: BARRIER
+
+guiTitle: "&e&lColor Picker"
+guiSize: 36
+
+changeMessage: "Your name color has been changed to: "
+
+items:
+  0:
+    data: '0'
+    name: "&0Black"
+    material: BLACK_STAINED_GLASS_PANE
+    permission: chatcolor.name.black
+
+  1:
+    data: '1'
+    name: "&1Dark Blue"
+    material: BLUE_STAINED_GLASS_PANE
+    permission: chatcolor.name.darkblue
+
+  2:
+    data: '2'
+    name: "&2Dark Green"
+    material: GREEN_STAINED_GLASS_PANE
+    permission: chatcolor.name.darkgreen
+
+  3:
+    data: '3'
+    name: "&3Dark Aqua"
+    material: CYAN_STAINED_GLASS_PANE
+    permission: chatcolor.name.darkaqua
+
+  4:
+    data: '4'
+    name: "&4Dark Red"
+    material: RED_STAINED_GLASS_PANE
+    permission: chatcolor.name.darkred
+
+  5:
+    data: '5'
+    name: "&5Dark Purple"
+    material: PURPLE_STAINED_GLASS_PANE
+    permission: chatcolor.name.darkpurple
+
+  6:
+    data: '6'
+    name: "&6Gold"
+    material: ORANGE_STAINED_GLASS_PANE
+    permission: chatcolor.name.gold
+
+  7:
+    data: '7'
+    name: "&7Gray"
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    permission: chatcolor.name.gray
+
+  8:
+    data: '8'
+    name: "&8Dark Gray"
+    material: GRAY_STAINED_GLASS_PANE
+    permission: chatcolor.name.darkgray
+
+  9:
+    data: '9'
+    name: "&9Blue"
+    material: BLUE_STAINED_GLASS_PANE
+    permission: chatcolor.name.blue
+
+  10:
+    data: 'a'
+    name: "&aGreen"
+    material: LIME_STAINED_GLASS_PANE
+    permission: chatcolor.name.green
+
+  11:
+    data: 'b'
+    name: "&bAqua"
+    material: LIGHT_BLUE_STAINED_GLASS_PANE
+    permission: chatcolor.name.aqua
+
+  12:
+    data: 'c'
+    name: "&cRed"
+    material: PINK_STAINED_GLASS_PANE
+    permission: chatcolor.name.red
+
+  13:
+    data: 'd'
+    name: "&dLight Purple"
+    material: MAGENTA_STAINED_GLASS_PANE
+    permission: chatcolor.name.lightpurple
+
+  14:
+    data: 'e'
+    name: "&eYellow"
+    material: YELLOW_STAINED_GLASS_PANE
+    permission: chatcolor.name.yellow
+
+  15:
+    data: 'f'
+    name: "&fWhite"
+    material: WHITE_STAINED_GLASS_PANE
+    permission: chatcolor.name.white
+  16:
+    data: 'c%6%e%a%b%d'
+    name: "&cR&6a&ei&an&bb&do&cw"
+    material: PAPER
+    permission: chatcolor.name.rainbow
