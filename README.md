@@ -26,5 +26,9 @@ ChatName changes the player's name and prefix whereas chatColor will change the 
 /ChatName  
 /ChatColor
 
+### Config example (gives the above result)
+
+![image](https://github.com/HarryWhead/ChatColours/assets/155663967/db6d44a6-db96-4823-bbab-2fb0b27949ff)
+
 
 
